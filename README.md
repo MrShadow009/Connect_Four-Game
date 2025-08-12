@@ -27,7 +27,7 @@ JavaScript (Vanilla) – Game logic & interactivity.
 
 🚀 Getting Started
 
- https://github.com/yourusername/connect-four.git
+ https://github.com/MrShadow009/connect-four.git
 
 2️⃣ Open the game
 Simply open index.html in your browser — no setup needed!
