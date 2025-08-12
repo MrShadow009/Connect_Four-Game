@@ -26,15 +26,14 @@ CSS3 – Styling, animations, and responsiveness.
 JavaScript (Vanilla) – Game logic & interactivity.
 
 🚀 Getting Started
-1️⃣ Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/connect-four.git
+
+ https://github.com/yourusername/connect-four.git
+
 2️⃣ Open the game
 Simply open index.html in your browser — no setup needed!
 
 📷 Screenshots
+![Gameplay Screenshot](con4.png)
 
 🎯 How to Play
 Players take turns clicking a column to drop their disc.
